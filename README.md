@@ -2,13 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helenanders26" alt="helenanders26" /> </p>
 
-- 📝 I regulary write articles on [https://helenanderson.co.nz/](https://helenanderson.co.nz/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenanders26&layout=compact" alt="helenanders26" /></p>
 
