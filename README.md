@@ -1,11 +1,6 @@
-<p align='center'>
-<a href="https://dev.to/helenanders26"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/helenanders26"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/helenanders26/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+## Hello there! My name is Helen. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h2 align="center">Hello there! My name is Helen. 👋🤓</h2>
-<p align="center">Data analyst, technical writer, and product manager interpreting the story behind the numbers, shaping the voice of the product, and growing developer communities – currently at Raygun.</p>
+Data analyst, technical writer, and product manager interpreting the story behind the numbers, shaping the voice of the product, and growing developer communities – currently at Raygun
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,5 +16,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
+<p align='center'>
+<a href="https://dev.to/helenanders26"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/helenanders26"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/helenanders26/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
