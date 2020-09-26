@@ -9,15 +9,19 @@
 <h2 align="center">Hello there! My name is Helen. 👋🤓</h2>
 <p align="center">Data analyst, technical writer, and product manager interpreting the story behind the numbers, shaping the voice of the product, and growing developer communities – currently at Raygun.</p>
 
-### 📰 Blog Posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Personal URL Shortener with GitHub, Netlify and an Affordable Domain Name](https://blog.stephenajulu.com/post/how-to-create-a-simple-personal-url-shortener-with-github-netlify-and-an-affordable-domain-name/)
-- [How to Create a Dev Environment in Windows 10: Part 1](https://blog.stephenajulu.com/post/how-to-create-a-dev-environment-in-windows-10-part-1/)
-- [Resources for Building a Beautiful Progressive JAMstack Blog](https://blog.stephenajulu.com/post/resources-for-building-a-beautiful-progressive-jamstack-blog/)
-- [Building a Beautiful Progressive JAMstack Blog Part 2: Day 4 to 7](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/)
-- [Building a Beautiful Progressive JAMstack Blog Part 1: Day 1 to 3](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/)
+- [SQL concepts from A to Z](https://dev.to/helenanders26/sql-series-from-a-to-z-2pk9)
+- [Which EC2 is right for you?](https://dev.to/helenanders26/aws-series-which-ec2-is-right-for-you-3f83)
+- [How to use the VLOOKUP Excel function](https://dev.to/helenanders26/how-to-use-the-vlookup-excel-function-2gp5)
+- [AWS concepts from A to Z](https://dev.to/helenanders26/aws-series-aws-from-a-to-z-45b1)
+- [How to add IF-ELSE logic to SQL queries](https://dev.to/helenanders26/how-to-add-if-else-logic-to-sql-queries-34ai)
+- [I sat an AWS Certification exam online - here's what happened](https://dev.to/helenanders26/i-sat-the-aws-cloud-practitioner-exam-online-here-s-what-happened-4chl)
+- [Entity Relationship Diagrams explained by Sonic the Hedgehog](https://dev.to/helenanders26/entity-relationship-diagrams-explained-by-sonic-the-hedgehog-1m68)
+- [What your interviewer really wants to know](https://dev.to/helenanders26/what-your-interviewer-really-wants-to-know-3kd5)
+- [How to rock your first tech talk](https://dev.to/helenanders26/how-to-rock-your-first-tech-talk-28pp)
 <!-- BLOG-POST-LIST:END -->
 
-![Helen's Github Stats](https://github-readme-stats.vercel.app/api?username=helenanders26&show_icons=true&theme=radical)
+
 
 
