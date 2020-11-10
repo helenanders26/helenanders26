@@ -1,6 +1,6 @@
 ## Hello there! My name is Helen. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Data analyst, technical writer, and product manager interpreting the story behind the numbers, shaping the voice of the product, and growing developer communities – currently at Raygun
+
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
